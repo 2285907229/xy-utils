@@ -1,13 +1,13 @@
 {
-  "name": "xy-utils",
-  "version": "1.0.0",
+  "name": "xycm-utils",
+  "version": "1.0.1",
   "description": "新娱前端工具库",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "xycm2022"
+    "前端工具库"
   ],
   "author": "eight_delicious_rice",
   "license": "ISC"
